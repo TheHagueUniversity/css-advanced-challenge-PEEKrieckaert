@@ -299,7 +299,57 @@ html {
 }
 
 @media (min-height: 501px) and (max-width: 99.9vh), (max-height: 500px) {
+    .item-2{
+        background-color: #ff0101;
+    }
 
+    .item-3{
+        background-color: #fff001;  
+    }
+
+    .item-7{
+        background-color: #30303a;
+    }
+
+    .item-10{
+        background-color: #0101fd; 
+    }
+
+    .item-12{
+        background-color: #30303a;
+    }
+
+    .item-13{
+        background-color: #fff001; 
+    }
+
+    .item-15{
+        background-color: #ff0101; 
+    }
+
+    .item-18{
+        background-color: #0101fd;  
+    }
+
+    .item-21{
+        background-color: #30303a;
+    }
+
+    .item-22{
+        background-color: #fff001;
+    }
+
+    .item-23{
+        background-color: #ff0101; 
+    }
+
+    .item-26{
+        background-color: #0101fd;  
+    }
+
+    .item-28{
+        background-color: #30303a;
+    }
 }
 
 
